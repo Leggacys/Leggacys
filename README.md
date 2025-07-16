@@ -44,15 +44,20 @@
 
 ---
 
-## 🌟 My LeetCode Profile
-[![LeetCode Stats](https://leetcard.jacoblin.cool/user9898YH?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/Leggacys)
+## 🌟 LeetCode & GitHub Stats
 
----
-
-## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Leggacys&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leggacys&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+        <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
