@@ -27,7 +27,7 @@
 ---
 
 ## 🌟 My LeetCode Profile
-[![LeetCode Stats](https://leetcard.jacoblin.cool/user9898YH?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/user9898YH)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/user9898YH?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/Leggacys)
 
 ---
 
