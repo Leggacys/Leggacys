@@ -6,11 +6,10 @@
 ---
 
 ## 🧭 About Me
-- 👨‍💻 XR / VR / AR development with Unity
+- 👨‍💻 **Software Engineer** with experience in **XR/AR/VR** and **game development**
 - 🎯 Game design & prototyping
 - 🧩 Problem-solver at heart (check out my LeetCode!)
 - 🛠️ Now building an expense tracker using **Flutter**, **Python**, and **SQL**
-
 ---
 
 ## 🛠️ Tech Stack
