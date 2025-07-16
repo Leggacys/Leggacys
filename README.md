@@ -1,28 +1,46 @@
 # 👋 Hi there, I'm Daniel!
 
-🎮 **Unity XR & Game Developer**  
-🚀 Passionate about building immersive experiences and interactive games.  
+🎮 **Software Enginner**  
+🚀 Passionate about building stuff.  
 
 ---
 
 ## 🧭 About Me
 - 👨‍💻 XR / VR / AR development with Unity
 - 🎯 Game design & prototyping
-- 🌱 Currently learning advanced C# patterns & shader programming
 - 🧩 Problem-solver at heart (check out my LeetCode!)
+- 🛠️ Now building an expense tracker using **Flutter**, **Python**, and **SQL**
 
 ---
 
 ## 🛠️ Tech Stack
-- 🕹️ **Unity** (C#)
-- 🌐 **XR / VR frameworks**
-- 📱 **Flutter** for cross-platform apps
-- 🐍 **Python** scripting & tools
-- ⚙️ **Jenkins** (CI/CD)
-- 🎨 Blender (3D Assets)
-- ✨ Shader Graph / HLSL basics
-- 🐧 **Linux** as my primary OS
-- 🔧 Git / GitHub
+
+<p align="left">
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
