@@ -8,6 +8,7 @@
 ## 🧭 About Me
 - 👨‍💻 **Software Engineer** with experience in **XR/AR/VR** and **game development**
 - 🎥 **Part-time Video Editor** (Adobe Suite)
+- 🌟 Interested in building my own game engine
 - 🎯 Game design & prototyping
 - 🧩 Problem-solver at heart (check out my LeetCode!)
 - 🛠️ Now building an expense tracker using **Flutter**, **Python**, and **SQL**
