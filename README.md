@@ -27,7 +27,7 @@
 ---
 
 ## 🌟 My LeetCode Profile
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/user9898YH?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/user9898YH)
 
 ---
 
